@@ -73,7 +73,7 @@ URL Input
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/phishing-link-scanner.git
+git clone https://github.com/Harsh595fy/Phishing-Link-Scaner.git
 cd phishing-link-scanner
 
 # 2. (Optional) Create a virtual environment
